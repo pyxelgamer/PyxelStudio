@@ -116,7 +116,20 @@ project.pyxel
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Pyxel Studio uses a **dual licensing model**:
+
+* **Pyxel Studio Application (Editor)**
+  Licensed under a proprietary license.
+  You may use it freely for personal, educational, and commercial projects, but redistribution, resale, or modification for competing products is not permitted.
+
+* **Godot Importer Plugin (`addons/pyxelstudio/`)**
+  Licensed under the **MIT License**.
+  You are free to use, modify, and distribute the plugin within your Godot projects.
+
+This separation ensures the editor remains protected while the Godot integration remains fully open and developer-friendly.
+
+For full details, see the [LICENSE](LICENSE) file in this repository and the LICENSE file inside the plugin directory.
+
 
 ---
 
