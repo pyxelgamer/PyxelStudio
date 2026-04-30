@@ -128,7 +128,7 @@ Pyxel Studio uses a **dual licensing model**:
 
 This separation ensures the editor remains protected while the Godot integration remains fully open and developer-friendly.
 
-For full details, see the [LICENSE](LICENSE) file in this repository and the [LICENSE](https://github.com/pyxelgamer/PyxelStudio/edit/main/README.md#:~:text=LICENSE) file inside the plugin directory.
+For full details, see the [LICENSE](LICENSE) file in this repository and the [LICENSE](https://github.com/pyxelgamer/PyxelStudio/blob/main/addons/pyxelstudio/LICENSE) file inside the plugin directory.
 
 
 ---
