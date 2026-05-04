@@ -80,7 +80,7 @@ Once enabled:
 | `O` | Color Replace |
 | `U` | Shape |
 | `S` | Select |
-| `W` | Transform |
+| `Ctrl+T` | Transform |
 | `B` | Box Select |
 | `C` | Capture tile to panel *(Tileset mode)* |
 | `Shift+Space` | Play / Stop animation *(Sprite mode)* |
